@@ -1,8 +1,9 @@
 const siteMetaInfo = {
-  title: "Md Solaiaman | Software Developer",
-  author: "Md Solaiman",
-  author_image: "/author.png",
-  position: "Full Stack Developer",
+  title: "Yuta Takahashi | Home",
+  author_image: "/profile_icon.png",
+  author: "Yuta Takahashi",
+  author_kanji: "Yuta Takahashi",
+  position: "なんでもITエンジニア",
   location: "Dhaka, Bangladesh",
   headerTitle: "Md Rathik",
   slogan: "Let's start coding",
