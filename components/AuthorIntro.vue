@@ -9,7 +9,7 @@
       高橋雄太（Takahashi Yuta）
     </p>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      なんでもエンジニア．
+      なんでもITエンジニア．
       2016年，佐賀大学卒業．
       2018年に奈良先端科学技術大学院大学にて修士課程（工学）修了．
       同大学院にて，2021年博士課程（工学）修了．

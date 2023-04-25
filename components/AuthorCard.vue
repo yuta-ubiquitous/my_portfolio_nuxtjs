@@ -27,28 +27,33 @@
 
     <div class="mx-7 hidden md:block">
       <div class="my-2 text-gray-600 flex dark:text-blue-100">
-        <Mail />
-        <a :href="`mailto:${siteMetadata.email}`"> {{ siteMetadata.email }}</a>
-      </div>
-      <div class="my-2 text-gray-600 flex dark:text-blue-100">
-        <Glob />
-        <p>{{ siteMetadata.location }}</p>
+        <Twitter />
+        <a :href="siteMetadata.twitter"> {{ siteMetadata.twitter_user }}</a>
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-200">
         <Github />
         <a :href="siteMetadata.github"> {{ siteMetadata.githubUser }}</a>
+      </div>
+      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+        <Note />
+        <a :href="siteMetadata.note"> {{ siteMetadata.note_user }}</a>
+      </div>
+      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+        <Qiita />
+        <a :href="siteMetadata.qiita"> {{ siteMetadata.qiita_user }}</a>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import Mail from "../assets/icon/mail.svg?inline";
-import Glob from "../assets/icon/glob.svg?inline";
+import Twitter from "../assets/icon/icons8-twitter.svg?inline";
 import Github from "../assets/icon/github_new.svg?inline";
+import Note from "../assets/icon/note.svg?inline";
+import Qiita from "../assets/icon/qiita.svg?inline";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
-  components: { Mail, Glob, Github },
+  components: { Twitter, Github, Note, Qiita},
   data: () => {
     return {
       siteMetadata: siteMetaInfo,
