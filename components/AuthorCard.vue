@@ -16,12 +16,13 @@
         <div class="md:text-lg text-gray-600 dark:text-blue-100">
           {{ siteMetadata.position }}
         </div>
-        <a
-          :href="`mailto:${siteMetadata.email}`"
-          class="text-gray-600 md:hidden mt-1 dark:text-blue-100"
-        >
-          {{ siteMetadata.email }}
-        </a>
+        <div class="md:text-base text-gray-500 dark:text-blue-100">
+          最終更新日:
+          <span
+            class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-1">
+              {{ siteMetadata.last_updated_at }}
+            </span>
+        </div>
       </div>
     </div>
 
