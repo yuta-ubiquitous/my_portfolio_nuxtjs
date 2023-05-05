@@ -87,7 +87,7 @@
           >2017/11-2017/12</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          留学
+          研究費留学
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -109,7 +109,7 @@
           >2017/10-2017/11</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          留学
+          研究費留学
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -130,6 +130,9 @@
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
           >2017/4-2019/3</time
         >
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+          起業 -> 解散済み
+        </p>
       </li>
       <li class="mb-10 ml-6">
         <span
