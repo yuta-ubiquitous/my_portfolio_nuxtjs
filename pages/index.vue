@@ -8,6 +8,7 @@
         <AuthorIntro></AuthorIntro>
         <Expertise></Expertise>
         <TimeLine></TimeLine>
+        <Certifications></Certifications>
       </div>
     </div>
   </div>
