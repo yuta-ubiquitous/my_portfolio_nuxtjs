@@ -5,7 +5,7 @@
     >
     資格
   </h2>
-  <ul class="list-disc mt-4">
+  <ul class="list-disc mt-4 ml-5">
     <li>
       ORACLE MASTER Bronze DBA 2019（2022/3）
     </li>
