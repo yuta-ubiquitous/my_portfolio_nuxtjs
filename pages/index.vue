@@ -9,6 +9,8 @@
         <Expertise></Expertise>
         <TimeLine></TimeLine>
         <Certifications></Certifications>
+        <Awards></Awards>
+        <Achievements></Achievements>
       </div>
     </div>
   </div>
