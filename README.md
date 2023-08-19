@@ -37,3 +37,9 @@ i made the design inspired from them.
 # Licence
 
 This project can be modified, edited and whatever you want to do. But i wish that you would love to contribute
+
+# Memo
+
+## icon
+
+- https://icons8.jp
