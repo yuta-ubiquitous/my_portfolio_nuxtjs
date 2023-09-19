@@ -38,7 +38,7 @@ export default {
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxt/content", "@nuxtjs/svg", "@nuxt/image"],
+  modules: ["@nuxt/content", "@nuxtjs/svg", "@nuxt/image", "@nuxtjs/google-gtag"],
   svg: {
     vueSvgLoader: {
       // vue-svg-loader options
@@ -67,5 +67,9 @@ export default {
         autoprefixer: {},
       },
     },
+  },
+  'google-gtag': {
+    id: "G-MPYWLVJB2C",
+    debug: true
   },
 };
