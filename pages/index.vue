@@ -10,6 +10,7 @@
         <TimeLine></TimeLine>
         <Certifications></Certifications>
         <Awards></Awards>
+        <Media />
         <Achievements></Achievements>
       </div>
     </div>
@@ -35,7 +36,6 @@ export default {
         content: siteMetaInfo.description,
       },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
 };
 </script>

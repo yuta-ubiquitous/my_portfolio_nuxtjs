@@ -3,7 +3,7 @@ const siteMetaInfo = {
   author_image: "/profile_icon.png",
   author: "Yuta Takahashi",
   position: "Webエンジニア",
-  last_updated_at: "2023/08/20",
+  last_updated_at: "2024/04/29",
   location: "Dhaka, Bangladesh",
   headerTitle: "Md Rathik",
   slogan: "Let's start coding",
