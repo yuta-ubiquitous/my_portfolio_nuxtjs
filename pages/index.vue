@@ -10,6 +10,7 @@
         <TimeLine></TimeLine>
         <Certifications></Certifications>
         <Awards></Awards>
+        <Media />
         <Achievements></Achievements>
       </div>
     </div>
